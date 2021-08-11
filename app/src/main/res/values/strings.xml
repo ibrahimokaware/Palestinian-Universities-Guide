@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">دليل الجامعات الفلسطينية</string>
+
+    <string name="internet_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="internet_message">يرجى التحقق من اتصال الإنترنت الخاص بك للوصول هنا</string>
+    <string name="internet_ok">حسنا</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="e_learning">التعليم الإلكتروني</string>
+    <string name="portal">خدمات الطلبة</string>
+    <string name="scholarship">المنح والإعفاءات</string>
+    <string name="calendar">التقويم الأكاديمي</string>
+    <string name="fees">الرسوم الدراسية</string>
+    <string name="rates">معدلات القبول</string>
+    <string name="facebook">فيس بوك</string>
+    <string name="location">الموقع الجغرافي</string>
+    <string name="website">الموقع الإلكتروني</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="fax">فاكس</string>
+    <string name="phone">هاتف</string>
+    <string name="about">نبذة مختصرة</string>
+    <string name="year">سنة التأسيس</string>
+    <string name="type">نوع المؤسسة التعليمية</string>
+    <string name="address">العنوان</string>
+    <string name="province">المحافظة</string>
+    <string name="cs">علوم الحاسوب</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب جديد</string>
+    <string name="or">أو</string>
+    <string name="name">الاسم</string>
+    <string name="you_have_account">تمتلك حساب بالفعل؟</string>
+    <string name="password_check">يجب أن تكون كلمة السر بين 6 و 20 حرف</string>
+    <string name="email_check">يجب إدخال عنوان بريد إلكتروني صالح</string>
+    <string name="email_exist">البريد الإلكتروني مستخدم مسبقاً</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+    <string-array name="degree_array">
+        <item>Degree</item>
+        <item>دبلوم</item>
+        <item>بكالوريوس</item>
+        <item>دبلوم عالي</item>
+        <item>ماجستير</item>
+        <item>دكتوراة</item>
+    </string-array>
+
+    <string-array name="duration_array">
+        <item>Duration</item>
+        <item>سنة واحدة</item>
+        <item>سنتان</item>
+        <item>3 سنوات</item>
+        <item>4 سنوات</item>
+        <item>5 سنوات</item>
+        <item>6 سنوات</item>
+        <item>7 سنوات</item>
+    </string-array>
+
+    <string-array name="program_type_array">
+        <item>Program Type</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

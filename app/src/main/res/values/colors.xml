@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e56353</color>
+    <color name="colorPrimaryDark">#d15241</color>
+    <color name="colorAccent">#d15241</color>
+
+
+    <color name="colorBackgroundMajorTextView">#4D90CAF9</color>
+    <color name="colorError">#FF0000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorLight">#b0e3ff</color>
+    <color name="colorSelected">#FFEB3B</color>
+    <color name="colorProgram">#FDEBE9</color>
+    <color name="colorDisable">#D6D6D6</color>
+    <color name="colorYalow">#fabe2c</color>
+    <color name="colorDisable2">#AEACAC</color>
+</resources>

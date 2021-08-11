@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_search"
+        android:title="البحث المتقدم" />
+    <item
+        android:id="@+id/item_future"
+        android:title="تخصصات المستقبل" />
+    <item
+        android:id="@+id/item_saved"
+        android:title="البرامج المحفوظة" />
+    <item
+        android:id="@+id/item_contact"
+        android:title="تواصل معنا" />
+    <item
+        android:id="@+id/item_other_app"
+        android:title="تطبيقاتنا الأخرى" />
+    <item
+        android:id="@+id/item_exit"
+        android:title="خروج" />
+</menu>
