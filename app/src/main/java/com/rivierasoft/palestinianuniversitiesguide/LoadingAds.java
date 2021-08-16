@@ -32,7 +32,7 @@ public class LoadingAds {
     public static boolean isInterstitialAdLoading2 = false;
 
     public static void loadRewardedInterstitialAd(Context context) {
-        RewardedInterstitialAd.load(context, "ca-app-pub-5247811461999730/9635379224",
+        RewardedInterstitialAd.load(context, "",
                 new AdRequest.Builder().build(), new RewardedInterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(RewardedInterstitialAd ad) {
@@ -47,7 +47,7 @@ public class LoadingAds {
     }
 
     public static void loadRewardedInterstitialAd2(Context context) {
-        RewardedInterstitialAd.load(context, "ca-app-pub-5247811461999730/7165769184",
+        RewardedInterstitialAd.load(context, "",
                 new AdRequest.Builder().build(), new RewardedInterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(RewardedInterstitialAd ad) {
@@ -65,7 +65,7 @@ public class LoadingAds {
     public static void loadInterstitialAd(Context context) {
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(context,"ca-app-pub-5247811461999730/8399153323", adRequest,
+        InterstitialAd.load(context,"", adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
@@ -88,7 +88,7 @@ public class LoadingAds {
     public static void loadInterstitialAd2(Context context) {
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(context,"ca-app-pub-5247811461999730/3885193242", adRequest,
+        InterstitialAd.load(context,"", adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
