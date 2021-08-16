@@ -51,7 +51,7 @@
         <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-5247811461999730~4187417901"/>
+            android:value=""/>
 
         <service
             android:name=".MyFirebaseMessagingService"
